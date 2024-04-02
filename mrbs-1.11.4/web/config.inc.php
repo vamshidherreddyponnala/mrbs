@@ -82,4 +82,8 @@ $db_persist = false;
    to change the default configuration. Do _NOT_ modify systemdefaults.inc.php
    or areadefaults.inc.php.  */
 
+$auth["session"]="php"
+
+
+
 
